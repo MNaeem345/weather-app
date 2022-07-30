@@ -1,4 +1,7 @@
 React Weather App 
 
 
-![caption](../weather-app/static/react%20weather%20app%20showcase.mp4)
+
+
+https://user-images.githubusercontent.com/94082796/181878550-7b2e28be-2cd6-42b4-8527-efa1fa53f77a.mp4
+
